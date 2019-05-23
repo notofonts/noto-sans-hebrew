@@ -1,4 +1,4 @@
-![Noto](images/noto.png)
+![Noto](https://github.com/googlefonts/noto-source/blob/master/images/noto.png)
 
 # Noto fonts
 
