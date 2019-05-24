@@ -6,4 +6,11 @@ Noto’s goal is to provide a beautiful reading experience for all languages. It
 
 To easily preview and download Noto fonts, visit http://www.google.com/get/noto. For background, technical details, and how to contribute, see the [FAQ](FAQ.md), [CONTRIBUTING-fonts](CONTRIBUTING-fonts.md) and [CONTRIBUTING](CONTRIBUTING.md).
 
+Intended Content of the Directories contained here:
+* design : is intended to hold all design artifacts, images, sketches, etc.
+* hinted : should contain all hinted fonts created from the source in src directory.
+* src : Glyphs.app source (until we figure how how to also support UFOs)
+* test : test files to test the fonts (most likely html)
+* unhinted : should contain all unhinted fonts created from the source in src directory.
+
 Have fun with Noto! — Google Noto Team
